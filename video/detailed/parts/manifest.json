@@ -1,0 +1,77 @@
+{
+  "file": "CAM_NESTING_Detailed_Overview.mp4",
+  "size": 40587150,
+  "sha256": "9d162c40d138666c540efeaee798e1e3eadfd659b931f0a0819799b45399799f",
+  "parts": [
+    {
+      "name": "overview.part01",
+      "size": 3000000,
+      "sha256": "f6a58dc753322db746f623d34b8f4e3ccc2ad7fd1eb3984d54909a6487442b73"
+    },
+    {
+      "name": "overview.part02",
+      "size": 3000000,
+      "sha256": "6574d5ffcf634509641b25097b581d7471d4689fdff42b562804dd47b15f66d6"
+    },
+    {
+      "name": "overview.part03",
+      "size": 3000000,
+      "sha256": "39e483aaaa57864ca76af0b6c854b421df01208972ab0cd6423e226a88b3939e"
+    },
+    {
+      "name": "overview.part04",
+      "size": 3000000,
+      "sha256": "6ec703b0296e89e4d5d4db0000d88725d6680b9cebe27fde70bcbd33bc9ceb93"
+    },
+    {
+      "name": "overview.part05",
+      "size": 3000000,
+      "sha256": "9bb191ebf68c3855ee737f5f845d997570b66db82128a0491616ed9cf003d488"
+    },
+    {
+      "name": "overview.part06",
+      "size": 3000000,
+      "sha256": "577e180e94cd27960d51335957c3884318f1a741136903d4b78401da04cdf873"
+    },
+    {
+      "name": "overview.part07",
+      "size": 3000000,
+      "sha256": "e7d96cb66a2d2ddc814d4cf8414521db4e4ae79e749c37904a163dd5c7e742fe"
+    },
+    {
+      "name": "overview.part08",
+      "size": 3000000,
+      "sha256": "aacac061c85f18d95e27db01e536e43da8c5bb2dc29a9c284d9e606a3f74b811"
+    },
+    {
+      "name": "overview.part09",
+      "size": 3000000,
+      "sha256": "183ee1831f37041a04d629972e5ecd6cdf60548bea1d428eb56c56470fdd468f"
+    },
+    {
+      "name": "overview.part10",
+      "size": 3000000,
+      "sha256": "d64dbbf42d196ba394f0a2c880123ad67f634275eebe6048ede2724b461ec21b"
+    },
+    {
+      "name": "overview.part11",
+      "size": 3000000,
+      "sha256": "c47f32755bd43437484987f2e7d0b00418d5678f0c1dfa6689c76815fc61e602"
+    },
+    {
+      "name": "overview.part12",
+      "size": 3000000,
+      "sha256": "6bc9a7e937f0ea02536bb9dc37f76dd20defac34e49233c0f7530fb443cb2389"
+    },
+    {
+      "name": "overview.part13",
+      "size": 3000000,
+      "sha256": "7606eada00307d19c1d9079ec56cced99b985e9f26ac36eb9d6bbb4263872f49"
+    },
+    {
+      "name": "overview.part14",
+      "size": 1587150,
+      "sha256": "14510486186a5f352b29c7d6ac1be6aa7293c351ffe9e9aed41138bf21de1685"
+    }
+  ]
+}
