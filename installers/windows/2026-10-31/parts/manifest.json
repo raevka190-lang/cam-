@@ -1,0 +1,37 @@
+{
+  "file": "CAM_Nesting_Setup.exe",
+  "size": 17945507,
+  "sha256": "9efc32461895b952beaeff2ab26f5350e524577177eaaea554a7cd2785650e19",
+  "parts": [
+    {
+      "name": "setup.part01",
+      "size": 3000000,
+      "sha256": "600d29e28259449af9f7ade343b9fff8777522f354d945a86d54b789efe3ef77"
+    },
+    {
+      "name": "setup.part02",
+      "size": 3000000,
+      "sha256": "405b27f383e962835748c220b56571a75d8f39f5ea768c01a985c27a66213846"
+    },
+    {
+      "name": "setup.part03",
+      "size": 3000000,
+      "sha256": "b5159b34eb414f094ea5534aac66b0137d6576678430fce75084040d87fba47d"
+    },
+    {
+      "name": "setup.part04",
+      "size": 3000000,
+      "sha256": "81d521ec4deb69c32407f5f612edde645eae2842dc8d29dc9e59a854e71fc56e"
+    },
+    {
+      "name": "setup.part05",
+      "size": 3000000,
+      "sha256": "6afbf0ff5f318bbefc045a15af77b37e4e8af4884d10f12bd8e8afb41a17e5be"
+    },
+    {
+      "name": "setup.part06",
+      "size": 2945507,
+      "sha256": "c309dc82bdab24fa938cc2184ff54553ac141db0f773fb94050dbb8f7a2395d8"
+    }
+  ]
+}
