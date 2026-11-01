@@ -1,0 +1,217 @@
+{
+  "filename": "CAM_Nesting_Protected_Setup.exe",
+  "bytes": 26833386,
+  "sha256": "aff2050fddcc05e6d545716f449850ab524998737c827d62b28634b71f2f3e76",
+  "parts": [
+    {
+      "name": "part-000.bin",
+      "bytes": 768000,
+      "sha256": "001b2fcf6327a0a7a114d58026fbe3c61715c772be57e9f1f9b5e92a529025b8",
+      "git_sha": "3f8f48c8417e7a842ec3afc6b65ea0009d942031"
+    },
+    {
+      "name": "part-001.bin",
+      "bytes": 768000,
+      "sha256": "d74df0ea5dad3c3564d1aaaf74ed8b58bc60bcbdc485f9e34b57a0723efe261b",
+      "git_sha": "a044a12a5149f043517f73dee64adb93ea58a4cf"
+    },
+    {
+      "name": "part-002.bin",
+      "bytes": 768000,
+      "sha256": "e603759d4378bc4b977c8991657ba24a63f078a6f32ff20da87444a43730275b",
+      "git_sha": "ad06369e35a8c3c2b642fa50f94ea6882d7cf871"
+    },
+    {
+      "name": "part-003.bin",
+      "bytes": 768000,
+      "sha256": "4bc1bc156c9c385840b790c5536d0076956985a8ba2dbe9c6914e49cc743f47b",
+      "git_sha": "1f41752b5d5e1a5c5e580c003b06e083e8d4e634"
+    },
+    {
+      "name": "part-004.bin",
+      "bytes": 768000,
+      "sha256": "3af74dca5b830f32409b5aebf55bbf2bce4ca60b4d832cc7354317255545520e",
+      "git_sha": "719355f99043d238cb3f3acc9e9a79f2251b2cc7"
+    },
+    {
+      "name": "part-005.bin",
+      "bytes": 768000,
+      "sha256": "b0c72252c5cd6affba2e3ff6d62deb7f2074e3d9afb8dbd88c4732c49650e7cf",
+      "git_sha": "1ca62e95b4e956584ecc71a6628a6736a371ff3d"
+    },
+    {
+      "name": "part-006.bin",
+      "bytes": 768000,
+      "sha256": "94ac5a1b177dd2540a406c7e702579207b9e5249b0f14af52d1551d1abe18d64",
+      "git_sha": "b6dc2d17e54389bde0f489ab96d9050821fcd7c1"
+    },
+    {
+      "name": "part-007.bin",
+      "bytes": 768000,
+      "sha256": "2009afa3b3aa2d1854c209d910d0427ce3368a51242f58128b76da9d14c76a3a",
+      "git_sha": "d1cbc269b51639b1072e6a6ffebd3065aa339226"
+    },
+    {
+      "name": "part-008.bin",
+      "bytes": 768000,
+      "sha256": "01a53d0d00d9aa8633b1b194aac0876b58e3b3e917a0f14768c35f2bbf24aab2",
+      "git_sha": "424ecff7bc0d51e0fb6c43b189805cb2bfdf086e"
+    },
+    {
+      "name": "part-009.bin",
+      "bytes": 768000,
+      "sha256": "b3462cc04602c74641b07ac0baff017136a24277ada66c738838595b6b52fb33",
+      "git_sha": "0e3c9e6ce116b1c4762562f0da19bdfac07791da"
+    },
+    {
+      "name": "part-010.bin",
+      "bytes": 768000,
+      "sha256": "2c9f2d41a56919afae2cd0b1e11a87c67041bf55a4a83e6f65875e7bffb142f5",
+      "git_sha": "548df7facd356e79dc326ae5362146c363eb1a55"
+    },
+    {
+      "name": "part-011.bin",
+      "bytes": 768000,
+      "sha256": "1f4e9cdf4e3c4e5d80f25e8933f0a7a5a8424bd3a34f85df291ba71f91698850",
+      "git_sha": "49f3573130e239a29562732ebac14976bb5aff5b"
+    },
+    {
+      "name": "part-012.bin",
+      "bytes": 768000,
+      "sha256": "2c27737d98314b9c6305810fb69b3a4eaebc66b51decee7cfe16a845ce4e6825",
+      "git_sha": "ec5acf7d597b40cb48c3f3436f6fc6b6d5b695cd"
+    },
+    {
+      "name": "part-013.bin",
+      "bytes": 768000,
+      "sha256": "25afa4a18e40aee743ab4efe59e01957460da08ec39d1b3349a411fe5ade83b2",
+      "git_sha": "7af9919a9555d655e92b4eb33c0a3f9c951bf87d"
+    },
+    {
+      "name": "part-014.bin",
+      "bytes": 768000,
+      "sha256": "efb3ef46c0388fa2e366c1fa2ae61fcb69ffae5b146809d21c2b9c2057625bc8",
+      "git_sha": "76dfb88aebaf925f51367f0417eefd6fa1aea67b"
+    },
+    {
+      "name": "part-015.bin",
+      "bytes": 768000,
+      "sha256": "1ac19a399557bbcbf1b90ecac0a6170fb0ca5c62480c200158f13729a5fd5a32",
+      "git_sha": "4a7dbff791f0e4e7feff5c70a442d08fe069d3c4"
+    },
+    {
+      "name": "part-016.bin",
+      "bytes": 768000,
+      "sha256": "8538d1a3d20bdd29ab6b321dfa4cce545957f64a7f126c066a22f5e0aa549e6e",
+      "git_sha": "b0b2b3631031c0393f3ca6c42de9875ebf8865b3"
+    },
+    {
+      "name": "part-017.bin",
+      "bytes": 768000,
+      "sha256": "5ec4c985e15a3c3e85cd0709b1f319d7bffdf1eb5bdbc1d66a2fdd32fb66b96e",
+      "git_sha": "ee958beb82775b565ba317a31d727aab4b03378b"
+    },
+    {
+      "name": "part-018.bin",
+      "bytes": 768000,
+      "sha256": "1f08ec64d445a7a60f09a3578b4a8f546e979199fbe1c9a36a333d9c56220b35",
+      "git_sha": "78ee2818bd7a05dd393e9215f791e7098da0c2b2"
+    },
+    {
+      "name": "part-019.bin",
+      "bytes": 768000,
+      "sha256": "40e761b586a8c479a31cb737a1dd1ec54544a6db3c154046b0d0931afed11476",
+      "git_sha": "0b7b2a7a8c3f6b042cb9bd26f4bf62e68f77ac4c"
+    },
+    {
+      "name": "part-020.bin",
+      "bytes": 768000,
+      "sha256": "f39a282eb1a2788caff9deae8e96babc074cd491c9886289d656b639e5cdc402",
+      "git_sha": "3cee62d21d898cc397f39997a8b565791222a15d"
+    },
+    {
+      "name": "part-021.bin",
+      "bytes": 768000,
+      "sha256": "12082dd3cdf22e56f961f807efcdd6c383faa24851505ca0298eea22a6dc78fc",
+      "git_sha": "2247bca1bf5ee29e171106f8945a980a650f7f59"
+    },
+    {
+      "name": "part-022.bin",
+      "bytes": 768000,
+      "sha256": "f1206ba37cb45247f61fcbf034e6e75b6e37eb1bf4ed3030e2c4f1301387c561",
+      "git_sha": "12f5eba6dcf85b6609878e43247a5871e6d9e2b4"
+    },
+    {
+      "name": "part-023.bin",
+      "bytes": 768000,
+      "sha256": "45060e10e6cba0f8047feab5d60c1ab70768eb513b04938d6a23bcf49158bdcc",
+      "git_sha": "01b600448d22e0bc3d58cbe4cf64ae7ec1a455e2"
+    },
+    {
+      "name": "part-024.bin",
+      "bytes": 768000,
+      "sha256": "b7ef4026490e6672333226304d18fb1392e48b737295d161db9c10e60696d9c7",
+      "git_sha": "89138e030c12ef1b65fb5958fb9e8fc4b3ee4c08"
+    },
+    {
+      "name": "part-025.bin",
+      "bytes": 768000,
+      "sha256": "ba4c5f873dddc9d6d2785ecc8498b0c126ba0dc7fbb1e7ccb075954171008412",
+      "git_sha": "c8cb6008c9dcf23cbdce191a9f81dedf1d235d80"
+    },
+    {
+      "name": "part-026.bin",
+      "bytes": 768000,
+      "sha256": "537e180ec29bade0a5b38d843a93f8bfe87772fa93a43836f0d1975808dcbaf5",
+      "git_sha": "5044ed0aa65a4ad4c459508396ab455120751071"
+    },
+    {
+      "name": "part-027.bin",
+      "bytes": 768000,
+      "sha256": "0455abb2716d06a30187f644018a14b96ea3a66a6e187999df2b20ef050785c9",
+      "git_sha": "3c8334569ec6e058d8db59a4f974d7112367560d"
+    },
+    {
+      "name": "part-028.bin",
+      "bytes": 768000,
+      "sha256": "d667f4e34b074dca89e3f121b48af7bc7ab521c486932fcf4c0c16c76882b003",
+      "git_sha": "6308b9a360c36f213f113a623dda9f7ad9fda61b"
+    },
+    {
+      "name": "part-029.bin",
+      "bytes": 768000,
+      "sha256": "37c18ba84ac11184167c7ba5e0817a43050239cb624110d6ea9daf3e7807be72",
+      "git_sha": "b366809a916625d6e6e249d4679c1b1ee3159a23"
+    },
+    {
+      "name": "part-030.bin",
+      "bytes": 768000,
+      "sha256": "84ccc85348b9ce33f36a32289162e62568f6448db33ef936b1270602a8ecb7db",
+      "git_sha": "4a3f846f4b99085c81adea24ca8f311fabe74810"
+    },
+    {
+      "name": "part-031.bin",
+      "bytes": 768000,
+      "sha256": "cef95303eca368c6b4b960167328469b8519e43927e5ca7fff7343c5fabcf4d0",
+      "git_sha": "ac34039a7f7cef015fb2937ba6ae262e486d018a"
+    },
+    {
+      "name": "part-032.bin",
+      "bytes": 768000,
+      "sha256": "72e831316aab188960889e3807aab02083527bbcda3f15dbf32663c85c153c4c",
+      "git_sha": "47514687ec5497fe2b8322b82a93e8871aca2b2c"
+    },
+    {
+      "name": "part-033.bin",
+      "bytes": 768000,
+      "sha256": "0ce239fc894fad0695b93140b9403870a27f8daf0b7fa7f0cd6aaf462c610f37",
+      "git_sha": "908d80d42c83892fdfc2505e7ddff1a549ec783c"
+    },
+    {
+      "name": "part-034.bin",
+      "bytes": 721386,
+      "sha256": "1349c31118151cdacd77e09bc2b03c9f1d3b55a9094d44ad8cb93b5f5187b02c",
+      "git_sha": "bf4700714649420dc3525494d4d96123e5e17f5f"
+    }
+  ]
+}
